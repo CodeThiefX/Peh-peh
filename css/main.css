@@ -10,6 +10,12 @@ body {
   background-size: cover;
 }
 
+.tokenomics {
+  background-image: url("../assets/circle-crayon-brush-background-free-png.png");
+  background-size: cover;
+  background-position: center;
+}
+
 html {
   scroll-behavior: smooth;
 }
